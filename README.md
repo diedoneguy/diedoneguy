@@ -3,6 +3,8 @@
 
 
 ## i'm beginner Python Developer 
+![image] (![image](https://user-images.githubusercontent.com/83122757/156558626-b8ed3a06-b5fc-4779-a4e8-ed80f5ebca9b.png)
+
 ## proffesional cyber sportsman
 <img src="https://imgur.com/rilHVxA.png"/>
 <img src="https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif">
