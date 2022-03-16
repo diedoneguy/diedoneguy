@@ -1,3 +1,7 @@
+<img src="https://upload.wikimedia.org/wikipedia/ru/archive/6/6b/20210505175821%21NyanCat.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Файл:NyanCat.gif — Википедия" data-noaft="1" style="width: 389px; height: 389px; margin: 0px;">
+
+
+
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761137faeb540546b724d7f6b5def510eb0d2aea35f4&rid=giphy.gif&ct=g" width="200" height="150" />
 ### games
 <img data-image="" src="https://media.proglib.io/wp-uploads/2018/11/github-project-1024x538.jpg">
