@@ -1,3 +1,5 @@
+<img src="https://99px.ru/sstorage/86/2018/07/10607181359094151.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Гиф анимация Авто едет по дороге, страница" data-noaft="1" style="width: 389px; height: 219.507px; margin: 0px;">
+
 <img src="https://i.yapx.ru/Mw7Zy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Самые популярные гифки" data-noaft="1" style="width: 389px; height: 389px; margin: 0px;">
 
 
