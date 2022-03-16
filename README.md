@@ -4,11 +4,11 @@
 
 ## i'm beginner Python Developer 
 ## proffesional cyber sportsman
-
-
-### Language and Tools
 <img src="https://imgur.com/rilHVxA.png"/>
 <img src="https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif">
+
+### Language and Tools
+
 ![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 # **Design and Code**
