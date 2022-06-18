@@ -3,63 +3,8 @@
 <img src="https://giffiles.alphacoders.com/212/212812.gif">
 <img src="https://i.yapx.ru/Mw7Zy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Самые популярные гифки" data-noaft="1" style="width: 420px; height: 500px; margin: 0px;">
 
-<img src="https://upload.wikimedia.org/wikipedia/ru/archive/6/6b/20210505175821%21NyanCat.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Файл:NyanCat.gif — Википедия" data-noaft="1" style="width: 389px; height: 389px; margin: 0px;">
-<img src="https://media.proglib.io/wp-uploads/-000//1/0*KXuX_V54FKpK-wsX.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="10 лучших языков программирования для изучения в 2018 году" data-noaft="1" style="width: 439px; height: 192.063px; margin: 0px;">
 
-<img src="https://i.gifer.com/7caw.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Гифка a4 круто картинка гиф картинка, скачать анимированный gif на GIFER" data-noaft="1" style="width: 439px; height: 167.918px; margin: 7.54125px 0px;">
-<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761137faeb540546b724d7f6b5def510eb0d2aea35f4&rid=giphy.gif&ct=g" width="200" height="150" />
-### games
-<img data-image="" src="https://media.proglib.io/wp-uploads/2018/11/github-project-1024x538.jpg">
-## i'm beginner Python Developer 
-![image] (![image](https://user-images.githubusercontent.com/83122757/156558626-b8ed3a06-b5fc-4779-a4e8-ed80f5ebca9b.png)
 
-## proffesional cyber sportsman
-<img src="https://imgur.com/rilHVxA.png"/>
-<img src="https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif">
-
-### Language and Tools
-
-![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-
-# **Design and Code**
-
-Welcome to Design & Code where anyone interested in designing and coding can connect and interact with fellow peers from all over the globe and not only learn, but also collaborate on various projects!
-
-<p align="left">
-<a href="mailto:designandcode.community@gmail.com" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-  
-  
-  
-  
-  <a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-  
-  
-  
-  
-<a href="http://designandcode.netlify.app/" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
-</a>
-  
-  
-  
-  
-<a href="https://www.linkedin.com/company/designandcode" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  
-  
-  
-  
-  
-<a href="https://github.com/Design-and-Code" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-  
-  
   
   
   
